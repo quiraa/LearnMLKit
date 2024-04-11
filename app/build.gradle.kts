@@ -54,5 +54,7 @@ dependencies {
 //	MLKit Library
 	implementation("com.google.mlkit:text-recognition:16.0.0") // Text in Image Recognition
 	implementation("com.google.mlkit:translate:17.0.2") // Text in Image Translation
+	implementation("com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.0")
+	implementation("androidx.camera:camera-mlkit-vision:1.4.0-alpha02")
 
 }
